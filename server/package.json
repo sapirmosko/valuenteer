@@ -1,0 +1,20 @@
+{
+  "name": "volunntinder-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapirmosko/valuenteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapirmosko/valuenteer/issues"
+  },
+  "homepage": "https://github.com/sapirmosko/valuenteer#readme"
+}
